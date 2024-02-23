@@ -9,7 +9,7 @@ The dataset used for this project is available from the Consumer Financial Prote
     Download CSV : https://files.consumerfinance.gov/ccdb/complaints.csv.zip
 
     Download JSON : https://files.consumerfinance.gov/ccdb/complaints.json.zip
-
+*Project Structure*
 
         Consumer-Complaint-Analysis-AIOPS-PROJECT-
     │   README.md                    # This README file
