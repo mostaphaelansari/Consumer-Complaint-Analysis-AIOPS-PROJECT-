@@ -6,8 +6,9 @@ This project aims to design and build a scalable machine learning pipeline to pr
 Dataset
 The dataset used for this project is available from the Consumer Financial Protection Bureau (CFPB) website. You can download the dataset in either CSV or JSON format from the following links:
 
-Download CSV : https://files.consumerfinance.gov/ccdb/complaints.csv.zip
-Download JSON : https://files.consumerfinance.gov/ccdb/complaints.json.zip
+    Download CSV : https://files.consumerfinance.gov/ccdb/complaints.csv.zip
+
+    Download JSON : https://files.consumerfinance.gov/ccdb/complaints.json.zip
 
 
 
