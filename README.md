@@ -9,19 +9,5 @@ The dataset used for this project is available from the Consumer Financial Prote
 Download CSV : https://files.consumerfinance.gov/ccdb/complaints.csv.zip
 Download JSON : https://files.consumerfinance.gov/ccdb/complaints.json.zip
 
-├── data/                          # Folder for storing dataset files
-│   └── complaints.csv             # CSV dataset file
-├── models/                        # Folder for storing trained models
-│   └── model.pkl                  # Trained machine learning model
-├── notebooks/                     # Folder for Jupyter notebooks (if any)
-│   └── exploratory_analysis.ipynb # Jupyter notebook for exploratory data analysis
-├── src/                           # Source code directory
-│   ├── data_processing.py         # Code for data preprocessing
-│   ├── model_training.py          # Code for training the machine learning model
-│   ├── model_evaluation.py        # Code for evaluating model performance
-│   ├── api.py                     # Flask API code for serving the model
-│   └── logging_config.py          # Configuration file for logging
-├── requirements.txt               # File containing Python dependencies
-├── README.md                      # This file
 
 
