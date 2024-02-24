@@ -11,19 +11,20 @@ This project develops a scalable machine learning pipeline to predict whether a 
 
 ### Setup
 1. Clone this repository:
-git clone https://github.com/mostapha.elansari/Consumer-Complaint-Analysis-AIOPS-PROJECT.git
 
-2. Navigate to the project directory:
-cd Consumer-Complaint-Analysis-AIOPS-PROJECT
+         git clone https://github.com/mostapha.elansari/Consumer-Complaint-Analysis-AIOPS-PROJECT.git
 
-cd Consumer-Complaint-Analysis-AIOPS-PROJECT
+3. Navigate to the project directory:
+
+         cd Consumer-Complaint-Analysis-AIOPS-PROJECT
 
 virtualenv venv
-source venv/bin/activate # On Windows use venv\Scripts\activate
+      
+      source venv/bin/activate # On Windows use venv\Scripts\activate
 
-4. Install the dependencies:
-5. 
-pip install -r requirements.txt
+4. Install the dependencies: 
+
+            pip install -r requirements.txt
 
 
 ## Usage
